@@ -8,3 +8,8 @@ when the images are augmented, then there is 'training.ipynb' file with which I 
 
 Once the model was ready, then in 'sliding_detection.ipynb', I applied haar cascade classifier which uses the sliding window algirithm to detect faces. After detecting the faces,
 I fed those croped images to the CNN classifier with which I got the label.
+
+
+
+![image](https://user-images.githubusercontent.com/96534007/177478347-a271fb49-8886-4f56-98b6-a7695bee63a2.png)
+
